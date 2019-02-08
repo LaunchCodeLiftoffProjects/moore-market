@@ -5358,7 +5358,7 @@
       ]
     },
     "Microsoft.AspNetCore.Razor.Design/2.2.0": {
-      "sha512": "ex8MZwgoyqHim1L6/65FnfjdSMtSKSuSU3DVoiCADZACc05T7f8uRB7SnDIP5LPQKLUBLilfNkd1p14RLyfdQA==",
+      "sha512": "qslnmDEaFHn7ok+xWsqq4YwdKuVIBUV1PAym3OdfXXmMAyI034d5QWPloGDz/i2K2iK3BcFn4qDoBX+xEBAfAg==",
       "type": "package",
       "path": "microsoft.aspnetcore.razor.design/2.2.0",
       "hasTools": true,
@@ -5741,7 +5741,7 @@
       ]
     },
     "Microsoft.CodeAnalysis.Analyzers/1.1.0": {
-      "sha512": "HS3iRWZKcUw/8eZ/08GXKY2Bn7xNzQPzf8gRPHGSowX7u7XXu9i9YEaBeBNKUXWfI7qjvT2zXtLUvbN0hds8vg==",
+      "sha512": "toJJQx8Zofwbi6RoE2sCOA4N1dmLL5fKceoiZHr5estcqiHLvUiX2aWdpUJv8/z0e+hlCo3gitfpc9vVh3Y+PQ==",
       "type": "package",
       "path": "microsoft.codeanalysis.analyzers/1.1.0",
       "hasTools": true,
@@ -9224,7 +9224,7 @@
       ]
     },
     "System.Linq.Queryable/4.0.1": {
-      "sha512": "Yn/WfYe9RoRfmSLvUt2JerP0BTGGykCZkQPgojaxgzF2N0oPo+/AhB8TXOpdCcNlrG3VRtsamtK2uzsp3cqRVw==",
+      "sha512": "OrTqLIyMWKUdsY6+iGbgbEPktB0knMnTJL195pLSWoZQAs7urogH7XwcgwfBbwoYfx5t6xNwFxbKeTHrstJI4Q==",
       "type": "package",
       "path": "system.linq.queryable/4.0.1",
       "files": [
@@ -12072,28 +12072,30 @@
     ]
   },
   "packageFolders": {
-    "/Users/colemar/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\lydia\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/colemar/Playground/moore-market/MooreMarket/MooreMarket.csproj",
+      "projectUniqueName": "C:\\Users\\lydia\\lc101\\moore-market\\MooreMarket\\MooreMarket.csproj",
       "projectName": "MooreMarket",
-      "projectPath": "/Users/colemar/Playground/moore-market/MooreMarket/MooreMarket.csproj",
-      "packagesPath": "/Users/colemar/.nuget/packages/",
-      "outputPath": "/Users/colemar/Playground/moore-market/MooreMarket/obj/",
+      "projectPath": "C:\\Users\\lydia\\lc101\\moore-market\\MooreMarket\\MooreMarket.csproj",
+      "packagesPath": "C:\\Users\\lydia\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\lydia\\lc101\\moore-market\\MooreMarket\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/colemar/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\lydia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

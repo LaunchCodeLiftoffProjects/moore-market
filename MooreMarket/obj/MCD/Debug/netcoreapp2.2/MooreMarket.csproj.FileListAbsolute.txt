@@ -1,0 +1,14 @@
+C:\Users\lydia\lc101\moore-market\MooreMarket\bin\MCD\Debug\netcoreapp2.2\MooreMarket.deps.json
+C:\Users\lydia\lc101\moore-market\MooreMarket\bin\MCD\Debug\netcoreapp2.2\MooreMarket.runtimeconfig.json
+C:\Users\lydia\lc101\moore-market\MooreMarket\bin\MCD\Debug\netcoreapp2.2\MooreMarket.runtimeconfig.dev.json
+C:\Users\lydia\lc101\moore-market\MooreMarket\bin\MCD\Debug\netcoreapp2.2\MooreMarket.dll
+C:\Users\lydia\lc101\moore-market\MooreMarket\bin\MCD\Debug\netcoreapp2.2\MooreMarket.pdb
+C:\Users\lydia\lc101\moore-market\MooreMarket\obj\MCD\Debug\netcoreapp2.2\MooreMarket.csprojAssemblyReference.cache
+C:\Users\lydia\lc101\moore-market\MooreMarket\obj\MCD\Debug\netcoreapp2.2\MooreMarket.csproj.CoreCompileInputs.cache
+C:\Users\lydia\lc101\moore-market\MooreMarket\obj\MCD\Debug\netcoreapp2.2\MooreMarket.RazorAssemblyInfo.cache
+C:\Users\lydia\lc101\moore-market\MooreMarket\obj\MCD\Debug\netcoreapp2.2\MooreMarket.RazorAssemblyInfo.cs
+C:\Users\lydia\lc101\moore-market\MooreMarket\obj\MCD\Debug\netcoreapp2.2\MooreMarket.AssemblyInfoInputs.cache
+C:\Users\lydia\lc101\moore-market\MooreMarket\obj\MCD\Debug\netcoreapp2.2\MooreMarket.AssemblyInfo.cs
+C:\Users\lydia\lc101\moore-market\MooreMarket\obj\MCD\Debug\netcoreapp2.2\MooreMarket.RazorTargetAssemblyInfo.cache
+C:\Users\lydia\lc101\moore-market\MooreMarket\obj\MCD\Debug\netcoreapp2.2\MooreMarket.dll
+C:\Users\lydia\lc101\moore-market\MooreMarket\obj\MCD\Debug\netcoreapp2.2\MooreMarket.pdb
