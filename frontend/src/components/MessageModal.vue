@@ -73,7 +73,7 @@ export default {
        }
     },
     computed: {
-        ...mapState('user', ['currentUser']),
+        ...mapState('user', ['user']),
         endBeforeStart() { return (this.message.endDate < this.message.startDate) }
     },
     methods: {
@@ -95,7 +95,7 @@ export default {
         },
     },    
     mounted() {
-        this.message.userId = this.currentUser.id;
+        this.message.userId = this.user.id;
     }
        
        

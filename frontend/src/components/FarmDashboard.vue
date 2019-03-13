@@ -31,10 +31,10 @@ export default {
       FarmerProductDash,
   },
   created() {
-    this.getVendorMessages(this.currentUser.id)
+    this.getVendorMessages(this.user.id)
   },
   computed: {
-    ...mapState('user', ['currentUser']),
+    ...mapState('user', ['user']),
     ...mapState('vendor', ['vendorMessages'])
   },
   methods: {
