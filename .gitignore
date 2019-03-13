@@ -340,3 +340,6 @@ ASALocalRun/
 
 # Local History for Visual Studio
 .localhistory/
+
+# Settings Files
+MooreMarket/appsettings.json
