@@ -7,6 +7,7 @@ services:
       target: api
     ports:
       - "8000:80"
+      - "443:443"
     depends_on:
       - db
   ui:
@@ -15,6 +16,7 @@ services:
       target: ui
     ports:
       - "8080:80"
+      - "433:433"
     depends_on:
       - api
   db:
@@ -23,7 +25,7 @@ services:
       - db_data:/var/lib/mysql
     restart: always
     ports:
-      - "3306:8889"
+      - "4306:8889"
     environment:
       MYSQL_TCP_PORT: "8889"
       MYSQL_ROOT_PASSWORD: "root"
