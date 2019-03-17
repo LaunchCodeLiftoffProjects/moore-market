@@ -66,7 +66,7 @@ namespace MooreMarket.Controllers
         [ProducesResponseType(404)]
         public IActionResult GetVendorMessages(int id)
         {
-            IList<Message> messages = _context.Messages.Where(m => m.UserId == id).ToList();
+            IList<Message> messages = _context.Messages.Where(m => m.UserId == id && m.EndDate >= DateTime.Today).ToList();
 
             if(messages == null)
             {
